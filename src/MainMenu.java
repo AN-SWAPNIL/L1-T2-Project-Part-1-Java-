@@ -2,6 +2,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class MainMenu {
+    //Change korlam for temp
     private static final String FILE_NAME = "movies.txt";
     public static void main(String[] args) throws Exception {
         Movies movie;
